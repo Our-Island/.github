@@ -6,3 +6,8 @@
 A multiversional server based on Velocity proxy. Projects of our server you may have some interest in:
   - [Cross-X-Bow](https://github.com/Our-Island/Cross-X-Bow)
   - [Creeper’s Imagination Arena](https://github.com/Our-Island/Creeper-Imagination)
+
+<h2>Links</h2>
+
+  - [McMod](https://play.mcmod.cn/sv20187278.html)
+  - QQ Group: 703625773
